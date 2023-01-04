@@ -3,4 +3,10 @@
 
 #### Coding Stats
 <!--START_SECTION:waka-->
+
+```text
+YAML       13 mins         ███████████████░░░░░░░░░░   59.93 %
+Markdown   9 mins          ██████████░░░░░░░░░░░░░░░   40.07 %
+```
+
 <!--END_SECTION:waka-->
