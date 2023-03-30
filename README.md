@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash     31 mins         ████████████████▒░░░░░░░░   65.96 %
-YAML     9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.37 %
-Python   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-Docker   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
