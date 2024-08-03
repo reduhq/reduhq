@@ -4,8 +4,8 @@
     </h1> 
 </div>  
 <div align="left"> 
-    <p style="font-size: 20px">I am a Python backend developer 🐍. I am always looking for new ways to improve my skills and learn new things. I am passionate about programming and I love creating new applications. I am very curious by nature and I am always looking for new challenges 🤓. I love working in a team and collaborating with other developers. I am always willing to help others and share my knowledge 😃.</p> 
-    <p>Joined Github <span style="font-weight: bold">4</span> years ago.
+    <p style="font-size: 20px">👨‍💻 I am a software developer with 5 years of experience, specialized in web applications with <span style="font-weight:bold; color:#14d4c9">React</span>🚀 and in the creation of APIs with <span style="font-weight:bold; color:#14d4c9">FastAPI</span>🐍 and <span style="font-weight:bold; color:#14d4c9">Express</span>⚡. I have experience in various languages ​​such as C#, Python, JavaScript and TypeScript 🌐, and I focus on offering innovative and high-quality technological solutions tailored to each project. 🏆</p> 
+    <p>Joined Github <span style="font-weight: bold">6</span> years ago.
     </p>
 </div>
 
@@ -13,7 +13,7 @@
 
 |Programming languages|Frontend|Backend|
 |---|---|---|
-|<img src="https://img.shields.io/badge/python-3474a7.svg?style=for-the-badge&logo=python&logoColor=white"/>![C#](https://img.shields.io/badge/CSharp-603278.svg?style=for-the-badge&logo=csharp&logoColor=white) | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  ![vite](https://img.shields.io/badge/vite-f8a621.svg?style=for-the-badge&logo=vite&logoColor=white)|<img src="https://img.shields.io/badge/fastapi-009789.svg?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/drf-0f3d2d.svg?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/flask-193449.svg?style=for-the-badge&logo=flask&logoColor=white" /> | |
+|<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/python-3474a7.svg?style=for-the-badge&logo=python&logoColor=white"/>![C#](https://img.shields.io/badge/CSharp-603278.svg?style=for-the-badge&logo=csharp&logoColor=white) | <img src="https://img.shields.io/badge/React-1399c4?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/astro-060913?style=for-the-badge&logo=astro&logoColor=white"/> <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white"/>   ![vite](https://img.shields.io/badge/vite-646cff.svg?style=for-the-badge&logo=vite&logoColor=white)|<img src="https://img.shields.io/badge/express-010409.svg?style=for-the-badge&logo=express&logoColor=white" />  <img src="https://img.shields.io/badge/fastapi-009789.svg?style=for-the-badge&logo=fastapi&logoColor=white" />| |
 
 |RDBMS|Dev Tools|
 |---|---|
