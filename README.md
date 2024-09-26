@@ -4,7 +4,7 @@
     </h1> 
 </div>  
 <div align="left"> 
-    <p style="font-size: 20px">👨‍💻 I am a software developer with 5 years of experience, specialized in web applications with <span style="font-weight:bold; color:#14d4c9">React</span>🚀 and in the creation of APIs with <span style="font-weight:bold; color:#14d4c9">FastAPI</span>🐍 and <span style="font-weight:bold; color:#14d4c9">Express</span>⚡. I have experience in various languages ​​such as C#, Python, JavaScript and TypeScript 🌐, and I focus on offering innovative and high-quality technological solutions tailored to each project. 🏆</p> 
+    <p style="font-size: 20px">👨‍💻 I am a software developer with 5 years of dedication and learning, specialized in web applications with <span style="font-weight:bold; color:#14d4c9">React</span>🚀 and in the creation of APIs with <span style="font-weight:bold; color:#14d4c9">FastAPI</span>🐍 and <span style="font-weight:bold; color:#14d4c9">Express</span>⚡. I have experience in various languages ​​such as C#, Python, JavaScript and TypeScript 🌐, and I focus on offering innovative and high-quality technological solutions tailored to each project. 🏆</p> 
     <p>Joined Github <span style="font-weight: bold">6</span> years ago.
     </p>
 </div>
